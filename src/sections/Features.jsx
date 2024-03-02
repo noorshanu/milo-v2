@@ -44,11 +44,11 @@ function Features() {
       <img src="images/star.png " alt="" className=" h-[50px]" />
     </div>
     <div className=" flex justify-between items-center py-6 flex-col sm:flex-row gap-4">
-      <div className=" h-[300px] w-[300px] bg-black border-2 border-white"></div>
+      <div className=" h-[300px] w-[300px] bg-black border-2 border-white"> <img src="images/Dog1.png" alt="" /></div>
 
-      <div className=" h-[300px] w-[300px] bg-black border-2 border-white rounded-sm"></div>
+      <div className=" h-[300px] w-[300px] bg-black border-2 border-white rounded-sm"><img src="images/Dog2.png" alt="" /></div>
 
-      <div className=" h-[300px] w-[300px]  bg-black border-2 border-white"></div>
+      <div className=" h-[300px] w-[300px]  bg-black border-2 border-white"><img src="images/Dog3.png" alt="" /></div>
     </div>
 
     <p className=" text-center font-daughter font-medium ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec </p>

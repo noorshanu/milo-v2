@@ -17,11 +17,11 @@ function Hero() {
   
   
           <div className=" relative z-40">
-            <img src="images/milo.png" alt="" className=" h-[120px]" />
+            
             <div className=" pt-3 mb-2">
               <h2 className=" text-2xl font-semibold font-daughter py-2">  <Typewriter
           options={{
-            strings: ['Hi, meet MILO404,'],
+            strings: ['Hi, meet MILO,'],
             autoStart: true,
             loop: true,
             wrapperClassName: 'text-2xl font-semibold font-daughter', // Apply Tailwind CSS classes here
@@ -36,8 +36,13 @@ function Hero() {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
               </p>
+
+
+                <p className=' font-semibold text-xl my-3'>Contract : kefghisdufhsdkfhlsdhfsdkhfpoeisjosdfsdkf</p>
   
-  
+            </div>
+            <div className=' flex justify-center items-end pt-3'>
+              <a href="/" className='font-daughter text-2xl uppercase text-black bg-[#00fff6] border-2 border-[#00a59f] py-2 px-6'>Buy Now</a>
             </div>
           </div>
   
