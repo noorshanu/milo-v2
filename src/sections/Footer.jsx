@@ -33,8 +33,7 @@ function footer() {
               Join Our Community
             </h1>
             <p className=" font-daughter text-base text-center sm:text-start">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+            Milo is more than just a cute pup;
             </p>
           </div>
         </div>
