@@ -51,7 +51,7 @@ function Features() {
       <div className=" h-[300px] w-[300px]  bg-black border-2 border-white"><img src="images/Dog3.png" alt="" /></div>
     </div>
 
-    <p className=" text-center font-daughter font-medium ">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec </p>
+    <p className=" text-center font-daughter font-medium ">Dive deeper into the phenomenon that is Milo! Explore the unique factors that make him such a meme-able force, from his expressive face to his relatable charm. Learn how his journey began and how he captured the hearts of millions online. </p>
   </section>
   )
 }
