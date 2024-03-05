@@ -32,9 +32,7 @@ function Hero() {
               </div>
   
               <p className=" font-daughter text-base ">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec 
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+              Milo is more than just a cute pup; he's a symbol of joy, laughter, and internet fame. With his expressive face and irresistible charm, Milo has captured the hearts of millions around the world.
               </p>
 
 
