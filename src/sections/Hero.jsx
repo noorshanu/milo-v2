@@ -1,4 +1,6 @@
 import Typewriter from 'typewriter-effect';
+import { FaXTwitter } from "react-icons/fa6";
+import { FaTelegramPlane } from "react-icons/fa";
 function Hero() {
     return (
       <section className=" relative z-10 py-16">
@@ -39,8 +41,17 @@ function Hero() {
                 <p className=' font-semibold text-xl my-3'>Contract : kefghisdufhsdkfhlsdhfsdkhfpoeisjosdfsdkf</p>
   
             </div>
-            <div className=' flex justify-center items-end pt-3'>
-              <a href="/" className='font-daughter text-2xl uppercase text-black bg-[#00fff6] border-2 border-[#00a59f] py-2 px-6'>Buy Now</a>
+            <div className=' flex  items-end pt-3 gap-4'>
+            <a href="/" className='font-daughter text-2xl uppercase text-black bg-[#00fff6] border-2 border-[#00a59f] py-2 px-6'>Buy Now</a>
+              <div className=' flex items-center gap-4'>
+              <a href="https://t.me/milomem" target="_blank" className=" text-4xl">
+                  <FaTelegramPlane />
+                </a>
+                <a href="https://x.com/milodoge1" className=" text-4xl" target="_blank">
+                <FaXTwitter />
+                </a>
+              </div>
+             
             </div>
           </div>
   

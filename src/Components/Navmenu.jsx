@@ -28,13 +28,13 @@ function Navmenu() {
               >
                 Contact Us
               </Link>
-              <Link
+              {/* <Link
                 to="roadmap"
                 onClick={() => setSidebarOpen(false)}
                 className="cursor-pointer text-sm xl:text-base"
               >
                 Roadmap
-              </Link>
+              </Link> */}
 
               <Link
                 to="about"
@@ -43,14 +43,14 @@ function Navmenu() {
               >
                 About Us
               </Link>
-              <Link
+              {/* <Link
                 to="tokenomics"
                 onClick={() => setSidebarOpen(false)}
                 className="cursor-pointer text-sm xl:text-base"
               >
                 Tokenomics
-              </Link>
-              <div className=" flex items-center gap-3">
+              </Link> */}
+              {/* <div className=" flex items-center gap-3">
                 <a href="/">
                   <FaXTwitter />
                 </a>
@@ -63,7 +63,7 @@ function Navmenu() {
                 <a href="/">
                   <FaMedium />
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className=" sm:hidden flex justify-between px-6 items-center">
@@ -107,13 +107,13 @@ function Navmenu() {
           >
             Contact Us
           </Link>
-          <Link
+          {/* <Link
             to="roadmap"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
             Roadmap
-          </Link>
+          </Link> */}
           <Link
             to="about"
             onClick={() => setSidebarOpen(false)}
@@ -121,15 +121,15 @@ function Navmenu() {
           >
             About Us
           </Link>
-          <Link
+          {/* <Link
             to="tokenomics"
             onClick={() => setSidebarOpen(false)}
             className="cursor-pointer text-sm xl:text-base"
           >
             Tokenomics
-          </Link>
+          </Link> */}
 
-          <div className=" flex items-center gap-3">
+          {/* <div className=" flex items-center gap-3">
                 <a href="/">
                   <FaXTwitter />
                 </a>
@@ -142,7 +142,7 @@ function Navmenu() {
                 <a href="/">
                   <FaMedium />
                 </a>
-              </div>
+              </div> */}
         </div>
       </div>
 
