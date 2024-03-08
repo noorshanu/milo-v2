@@ -38,7 +38,7 @@ function Hero() {
               </p>
 
 
-                <p className=' font-semibold text-xl my-3'>Contract : kefghisdufhsdkfhlsdhfsdkhfpoeisjosdfsdkf</p>
+                <p className=' font-semibold text-xl my-3'>Contract : 3AvDZPUDAPaNBkDTQwPmBuYKPB67YkJC9w4qQmtcaMaG</p>
   
             </div>
             <div className=' flex  items-end pt-3 gap-4'>
