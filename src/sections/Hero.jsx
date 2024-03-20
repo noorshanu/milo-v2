@@ -11,11 +11,7 @@ function Hero() {
   
         <div className="container-wrapper  flex flex-col items-center justify-center lg:drop-shadow-[0_0_10rem_white]">
          <div className="flex justify-between items-center mt-8 mb-8 gap-6 flex-col sm:flex-row">
-         <img
-            src="/images/hero.png"
-            className="w-full lg:w-[50%] lg:h-[50%] object-contain floating"
-            alt=""
-          />
+        
   
   
           <div className=" relative z-40">
@@ -54,6 +50,13 @@ function Hero() {
              
             </div>
           </div>
+
+
+          <img
+            src="/images/hero.png"
+            className="w-full lg:w-[50%] lg:h-[50%] object-contain floating"
+            alt=""
+          />
   
           
          </div>
