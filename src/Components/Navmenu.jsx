@@ -68,11 +68,14 @@ function Navmenu() {
             </div>
           </div>
           <div className=" sm:hidden flex justify-between px-6 items-center">
-              <img
+             <div className="flex items-center gap-2">
+             <img
                 src="/images/hero.png"
                 className="w-full max-w-[6rem] sm:max-w-[11rem] py-2 "
                 alt=""
               />
+              <p className=" font-daughter font-semibold text-2xl">LexieSol</p>
+             </div>
                <button
             className="text-2xl text-black flex lg:hidden"
             onClick={() => setSidebarOpen(true)}
