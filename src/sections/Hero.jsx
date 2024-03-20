@@ -13,7 +13,7 @@ function Hero() {
       <div className="container-wrapper  flex flex-col items-center justify-center lg:drop-shadow-[0_0_10rem_white]">
         <div className="flex justify-between items-center mt-8 mb-8 gap-6 flex-col sm:flex-row">
           <div className=" relative z-40">
-            <div className=" pt-3 mb-2">
+            <div className=" pt-3 mb-2 max-w-xl w-full">
               <h2 className=" text-2xl font-semibold font-daughter py-2">
                 {" "}
                 <Typewriter
@@ -34,9 +34,9 @@ function Hero() {
                 around the world.
               </p>
 
-              <p className=" font-semibold text-xl my-3">
-                Contract : 3AvDZPUDAPaNBkDTQwPmBuYKPB67YkJC9w4qQmtcaMaG
-              </p>
+              <a href="https://solscan.io/token/DyMqXJNhENa8ik9XSrogoj6kMiEqUWFr8ZDMsyRpiwVq" className=" font-semibold text-xl my-3">
+                Contract : DyMqXJNhENa8ik9XSrogoj6kMiEqUWFr8ZDMsyRpiwVq
+              </a>
             </div>
             <div className=" flex  items-end pt-3 gap-4">
               <a
