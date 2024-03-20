@@ -13,7 +13,7 @@ function Hero() {
       <div className="container-wrapper  flex flex-col items-center justify-center lg:drop-shadow-[0_0_10rem_white]">
         <div className="flex justify-between items-center mt-8 mb-8 gap-6 flex-col sm:flex-row">
           <div className=" relative z-40">
-            <div className=" pt-3 mb-2 max-w-xl w-full">
+            <div className=" pt-3 mb-2 sm:max-w-xl w-full max-w-full ">
               <h2 className=" text-2xl font-semibold font-daughter py-2">
                 {" "}
                 <Typewriter
@@ -66,7 +66,7 @@ function Hero() {
 
           <img
             src="/images/hero.png"
-            className="w-full lg:w-[50%] lg:h-[50%] object-contain floating"
+            className="w-[300px] h-auto sm:w-[50%] sm:h-[50%] object-contain floating"
             alt=""
           />
         </div>
