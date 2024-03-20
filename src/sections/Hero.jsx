@@ -40,7 +40,8 @@ function Hero() {
             </div>
             <div className=" flex  items-end pt-3 gap-4">
               <a
-                href="/"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/Dg3kuiYGVG5ZXMV1DodxvSbMzCEH6Cnm6BDvZH3nXUBv?t=1710963753243"
+                target="_blank"
                 className="font-daughter text-2xl uppercase text-black bg-[#00fff6] border-2 border-[#00a59f] py-2 px-6 rounded-full"
               >
                DexTools
