@@ -21,12 +21,7 @@ function footer() {
                 <a href="https://twitter.com/LexieSolll" className=" text-4xl" target="_blank">
                 <FaXTwitter />
                 </a>
-                <a href="/" className=" text-4xl">
-                  <FaInstagram />
-                </a>
-                <a href="/" className=" text-4xl">
-                  <FaMedium />
-                </a>
+            
               </div>
         </div>
       </div>
