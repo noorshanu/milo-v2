@@ -43,15 +43,15 @@ function Features() {
       {/* <h1 className=" font-daughter text-2xl sm:text-4xl">OUR FEATURES</h1> */}
       <img src="images/star.png " alt="" className=" h-[50px]" />
     </div>
-    <div className=" flex justify-between items-center py-6 flex-col sm:flex-row gap-4">
-      <div className=" h-[300px] w-[300px] bg-black border-2 border-white"> <img src="images/Dog1.png" alt="" /></div>
+    <div className=" flex justify-between items-center py-6 flex-col sm:flex-row gap-4"> 
+      <div className=" h-[300px] w-[300px] bg-black border-2 border-white rounded-lg"> <img src="images/dog1.jpeg" alt="" className=' rounded-lg' /></div>
 
-      <div className=" h-[300px] w-[300px] bg-black border-2 border-white rounded-sm"><img src="images/Dog2.png" alt="" /></div>
+      <div className=" h-[300px] w-[300px] bg-black border-2 border-white rounded-lg"><img src="images/dog2.jpeg" alt="" /></div>
 
-      <div className=" h-[300px] w-[300px]  bg-black border-2 border-white"><img src="images/Dog3.png" alt="" /></div>
+      <div className=" h-[300px] w-[300px]  bg-black border-2 border-white rounded-lg"><img src="images/dog3.jpeg" alt="" /></div>
     </div>
 
-    <p className=" text-center font-daughter font-medium ">Dive deeper into the phenomenon that is Milo! Explore the unique factors that make him such a meme-able force, from his expressive face to his relatable charm. Learn how his journey began and how he captured the hearts of millions online. </p>
+    <p className=" text-center font-daughter font-medium ">Dive deeper into the phenomenon that is LexieSol! Explore the unique factors that make him such a meme-able force, from his expressive face to his relatable charm. Learn how his journey began and how he captured the hearts of millions online. </p>
   </section>
   )
 }
