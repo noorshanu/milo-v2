@@ -28,9 +28,9 @@ function Hero() {
               <div className=" bg-[#00ffba] h-2 w-[70px] my-3"></div>
 
               <p className=" font-daughter text-base ">
-                Milo is more than just a cute pup; he's a symbol of joy,
+               LEXIESOL is more than just a cute pup; he's a symbol of joy,
                 laughter, and internet fame. With his expressive face and
-                irresistible charm, Milo has captured the hearts of millions
+                irresistible charm,LEXIESOLhas captured the hearts of millions
                 around the world.
               </p>
 
