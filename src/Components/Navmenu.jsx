@@ -10,15 +10,16 @@ function Navmenu() {
     const [sidebarOpen, setSidebarOpen] = useState(false);
   return (
     <>
-      <nav className="z-[100] relative bg-[#454d57] lg:bg-transparent">
-        <div className=" mx-w-full px-5 sm:max-w-[1300px] mx-auto bg-[#454d57] h-14 lg:h-16 2xl:h-20 rounded-2xl   r">
+      <nav className="z-[100] relative  lg:bg-transparent">
+        <div className=" mx-w-full px-5 sm:max-w-[1300px] mx-auto h-14 lg:h-16 2xl:h-20 rounded-2xl   r">
           <div className="items-center justify-between text-base font-medium text-primary hidden lg:flex">
-            <div>
+            <div className=" flex items-center gap-2">
               <img
-                src="/images/logo.png"
-                className="w-full max-w-[6] sm:max-w-[11rem] py-2 "
+                src="/images/hero.png"
+                className="w-full max-w-[6] sm:max-w-[5rem] py-2 "
                 alt=""
               />
+              <p className=" font-daughter font-semibold text-2xl">LexieSol</p>
             </div>
             <div className=" flex items-center justify-evenly gap-6">
               <Link

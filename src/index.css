@@ -70,10 +70,10 @@
 }
 
 body{
-  background-image: url('../public//images/bgmain.jpg');
+  /* background-image: url('../public//images/bgmain.jpg');
   background-size: cover;
-  background-repeat: no-repeat;
-  background-color: black;
+  background-repeat: no-repeat; */
+  background-color: #0b4d5f;
 }
 
 .anime2 {
