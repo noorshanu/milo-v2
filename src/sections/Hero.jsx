@@ -18,7 +18,7 @@ function Hero() {
                 {" "}
                 <Typewriter
                   options={{
-                    strings: ["Hi, meet MILO,"],
+                    strings: ["Hi, meet LEXIESOL,"],
                     autoStart: true,
                     loop: true,
                     wrapperClassName: "text-2xl font-semibold font-daughter", // Apply Tailwind CSS classes here

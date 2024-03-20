@@ -22,7 +22,7 @@ function footer() {
                 <a href="https://t.me/milomem" target="_blank" className=" text-4xl">
                   <FaTelegramPlane />
                 </a>
-                <a href="https://x.com/milodoge1" className=" text-4xl" target="_blank">
+                <a href="https://twitter.com/LexieSolll" className=" text-4xl" target="_blank">
                 <FaXTwitter />
                 </a>
                 <a href="/" className=" text-4xl">
