@@ -15,7 +15,7 @@ function footer() {
 
         <div className=" bg-[#2f313498] border-[#585858] border-2 rounded-full py-4 px-7 my-10 max-w-[400px] mx-auto">
         <div className=" flex items-center justify-center gap-6">
-                <a href="https://t.me/milomem" target="_blank" className=" text-4xl">
+                <a href="https://t.me/lexiesoll" target="_blank" className=" text-4xl">
                   <FaTelegramPlane />
                 </a>
                 <a href="https://twitter.com/LexieSolll" className=" text-4xl" target="_blank">

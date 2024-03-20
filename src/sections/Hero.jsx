@@ -47,7 +47,7 @@ function Hero() {
               </a>
               <div className=" flex items-center gap-4">
                 <a
-                  href="https://t.me/milomem"
+                  href="https://t.me/lexiesoll"
                   target="_blank"
                   className=" text-4xl"
                 >
