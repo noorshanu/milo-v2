@@ -11,7 +11,7 @@ function Hero() {
       />
 
       <div className="container-wrapper  flex flex-col  justify-center lg:drop-shadow-[0_0_10rem_white]">
-        <div className="flex justify-between items-center mt-8 mb-8 gap-6 flex-col sm:flex-row">
+        <div className="flex justify-between  mt-8 mb-8 gap-6 flex-col sm:flex-row">
           <div className=" relative z-40">
             <div className=" pt-3 mb-2 sm:max-w-xl w-full max-w-full ">
               <h2 className=" text-2xl font-semibold font-daughter py-2">
