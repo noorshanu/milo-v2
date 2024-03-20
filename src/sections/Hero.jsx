@@ -10,7 +10,7 @@ function Hero() {
         className=" absolute left-0 top-10 sm:h-[200px] h-[100px] floating "
       />
 
-      <div className="container-wrapper  flex flex-col items-center justify-center lg:drop-shadow-[0_0_10rem_white]">
+      <div className="container-wrapper  flex flex-col  justify-center lg:drop-shadow-[0_0_10rem_white]">
         <div className="flex justify-between items-center mt-8 mb-8 gap-6 flex-col sm:flex-row">
           <div className=" relative z-40">
             <div className=" pt-3 mb-2 sm:max-w-xl w-full max-w-full ">
